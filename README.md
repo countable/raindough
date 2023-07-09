@@ -1,5 +1,5 @@
 # raindough
-[RainDough](!raindough.png)
+![RainDough](raindough.png)
 Educational browser based games for young children (age 1 to 10)
 
  - [Toddler Keyboard](https://countable.github.io/toddler-keyboard/) - Ages 1-3. Mashing keys shows corresponding animals.
